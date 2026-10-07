@@ -1,0 +1,6 @@
+{
+  "name": "MI PHOTO EDITOR",
+  "description": "Modern AI Photo Editor with Auto Enhance, Face, Background, Lighting, and Restoration tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
